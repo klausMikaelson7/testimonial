@@ -1,0 +1,103 @@
+#section1 {
+  background-color: hsl(210, 46%, 95%);
+  padding: 5% 5%;
+  font-size: 13px;
+  color: white;
+  text-align: left;
+  font-family: 'Barlow-Semi-Condensed',sans-serif;
+}
+.one {
+  background-color: hsl(263, 55%, 52%);
+  border-radius: 20px;
+  text-align: left;
+  margin-bottom:15px;
+  padding: 2% 2% 1% 2%;
+  line-height: 1;
+}
+.two {
+  background-color: hsl(217, 19%, 35%);
+  border-radius: 20px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+  line-height: 1.5;
+  padding: 2% 2% 1% 2%;
+}
+.three {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  color: #393e46;
+  margin-top: 15px;
+  line-height: 1.5;
+  padding: 2% 2% 1% 2%;
+}
+.four {
+  background-color: hsl(219, 29%, 14%);
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 30px;
+  line-height: 1;
+  padding: 2% 2% 1% 2%;
+}
+.five {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  color: #393e46;
+  line-height: 1.5;
+  padding: 2% 2% 1% 2%;
+}
+.display{
+  float: left;
+  border-radius: 90px;
+  margin-right: 10px;
+  margin-left: 0;
+  margin-bottom: 0;
+}
+.hola {
+  padding: 3%;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+h6 {
+  margin-bottom: 0;
+  margin-top: 10px;
+}
+.intro {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+
+}
+.infotext {
+  font-size: 1rem;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  opacity: 70%;
+
+}
+.boom {
+  margin-top: 10px;
+}
+.baam {
+  margin-top: 10px;
+}
+@media (max-width:992px) {
+  .one {
+    margin: 10px;
+  }
+  .two {
+    margin: 10px;
+  }
+  .three {
+    margin: 10px;
+  }
+  .four {
+    margin: 10px;
+  }
+  .five {
+    margin: 10px;
+  }
+
+}
+.attribution {
+  text-align: center;
+}
